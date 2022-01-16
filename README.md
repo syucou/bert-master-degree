@@ -11,7 +11,7 @@ File name & Overview
 (仮想環境でロボットを制御するプログラム)  
 3.catch_text.py  
 (音声認識の結果からテキスト取得用プログラム)  
-4.run_classifier.py 	
+4.run_classifier.py  
 (BERTをファインチューニングする用プログラム)  
 5.bert_fine_tuning.sh  
 (ファインチューニング実行用スクリプト)  
