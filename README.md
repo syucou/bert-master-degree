@@ -1,4 +1,4 @@
-# bert-master-degree
+# master-degree-nlp
 
 ### this is the program of my master degree research
 ### the research title is "Command Utterance Understanding for Service Robots using BERT"
